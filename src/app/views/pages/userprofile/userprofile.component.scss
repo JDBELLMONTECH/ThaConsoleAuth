@@ -1,0 +1,20 @@
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  mat-form-field {
+    width: 300px;
+    margin-bottom: 16px;
+  }
+  
+  button {
+    margin-top: 24px;
+  }
+  .example-full-width-field {
+    width: 300px;
+  }
+  
